@@ -14,7 +14,7 @@ Data: The datasets we worked with for this project were found on Kaggle. The Dat
 
 File Structure:
 
-Car93.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Cars93 dataset.
+- Car93.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Cars93 dataset.
 - CarSeats.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the CarSeats dataset.
 - diabetes.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Diabetes dataset.
 - toy.ipynb: Jupyter notebook containing the code from when we applied the algorithm to a toy dataset.
