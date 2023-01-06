@@ -8,13 +8,13 @@ Summary: Our task for this project was to learn about Decision Trees. The first 
 
 Data: The datasets we worked with for this project were found on Kaggle. The Datasets utilized were:
 
-- Cars93: This is a dataset on cars and their attributes such as model, manufacturer, price and MPG (https://www.kaggle.com/datasets/yashpaloswal/cars93).
+- Cars93: This is a dataset on cars and their attributes such as model, manufacturer, price, and MPG (https://www.kaggle.com/datasets/yashpaloswal/cars93).
 - Carseats: This is a dataset on car seats and the locations who sold them and contains attributes such as price, sales, the community's average income, and average age of the local population (https://www.kaggle.com/datasets/huhao05133/carseats).
 - Diabetes: This dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases, it was used to predict if patients had diabetes or not (https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
 
 File Structure:
 
-- Car93.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Cars93 dataset.
+- Cars93.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Cars93 dataset.
 - CarSeats.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the CarSeats dataset.
 - diabetes.ipynb: Jupyter notebook containing the code from when we applied the algorithm to the Diabetes dataset.
 - toy.ipynb: Jupyter notebook containing the code from when we applied the algorithm to a toy dataset.
